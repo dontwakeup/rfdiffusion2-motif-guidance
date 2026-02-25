@@ -1,0 +1,19 @@
+experiment:
+  guidance_levels: [0.5, 1.0, 2.0, 4.0, 8.0]
+  designs_per_level: 100
+  boundary_flank: 5
+  clash_threshold_angstrom: 2.2
+
+motif:
+  pdb_id: null
+  chain: null
+  residues: null   # e.g. "45-62"
+  length: null
+
+run:
+  seed_base: 12345
+  run_name: null
+
+rf2:
+  commit_hash: null
+  cmd_template: null
