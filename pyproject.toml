@@ -1,0 +1,11 @@
+[project]
+name = "rfdiffusion2-motif-guidance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython>=1.86",
+    "numpy>=2.4.2",
+    "pyyaml>=6.0.3",
+]
