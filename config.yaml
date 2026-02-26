@@ -5,10 +5,10 @@ experiment:
   clash_threshold_angstrom: 2.2
 
 motif:
-  pdb_id: null
-  chain: null
-  residues: null   # e.g. "45-62"
-  length: null
+  pdb_id: "2LZM"
+  chain: "A"
+  residues: "45-62"
+  length: 18 
 
 run:
   seed_base: 12345

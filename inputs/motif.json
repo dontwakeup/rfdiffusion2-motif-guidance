@@ -1,0 +1,8 @@
+{
+  "pdb_id": "2LZM",
+  "source": "inputs/reference.pdb",
+  "chain": "A",
+  "motif_residues": "45-62",
+  "boundary_flank": 5,
+  "notes": "Helix-loop motif from T4 lysozyme. Moderate exposure, mid-chain, non-terminal."
+}
